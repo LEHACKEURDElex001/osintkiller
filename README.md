@@ -30,6 +30,6 @@ Aucune trace ne lui échappe. Tout est loggé. Tout est remonté.
 
 ```bash
 pkg update && pkg install python git -y
-git clone https://github.com/tonpseudo/osintkiller
+git clone https://github.com/LEHACKEURDElex001/osintkiller
 cd osintkiller
 python3 osintkiller.py
