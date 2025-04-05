@@ -15,7 +15,7 @@ pkg install git python -y
 
 2. Clonez le dépôt :
 
-git clone https://github.com/tonpseudo/osintkiller  
+git clone https://github.com/LEHACKEURDElex001/osintkiller
 cd osintkiller
 
 3. Lancez l'installation automatique :
